@@ -17,7 +17,7 @@ installation involves the following steps:
 
     git clone https://github.com/LNST-project/lnst
     cd lnst
-    pip3 install --requirement requirements.txt
+    pip3 install --requirement docs/requirements.txt
     pip3 install .
 
 
